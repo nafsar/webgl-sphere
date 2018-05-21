@@ -1,0 +1,9 @@
+{
+  "name": "js-sxsz9u",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/js-sxsz9u",
+  "dependencies": {
+    "three": "0.92.0"
+  },
+  "version": "1.0.0"
+}
